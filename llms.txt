@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/lawla-hobak-ma-kontesh-if-not-for-your-love-i-wouldnt-be/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get License For Lawla Hobak Ma Kontesh – If Not for Your Love, I Wouldn't Be](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
